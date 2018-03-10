@@ -1,0 +1,11 @@
+C:\Users\Betsayda\Desktop\displayrandom\displayrandom\bin\Release\displayrandom.exe
+C:\Users\Betsayda\Desktop\displayrandom\displayrandom\bin\Release\displayrandom.pdb
+C:\Users\Betsayda\Desktop\displayrandom\displayrandom\bin\Release\kitchanismo_display_random_item.dll
+C:\Users\Betsayda\Desktop\displayrandom\displayrandom\bin\Release\kitchanismo_display_random_item.pdb
+C:\Users\Betsayda\Desktop\displayrandom\displayrandom\bin\Release\kitchanismo_display_random_item.xml
+C:\Users\Betsayda\Desktop\displayrandom\displayrandom\obj\x86\Release\displayrandom.csprojResolveAssemblyReference.cache
+C:\Users\Betsayda\Desktop\displayrandom\displayrandom\obj\x86\Release\displayrandom.Form1.resources
+C:\Users\Betsayda\Desktop\displayrandom\displayrandom\obj\x86\Release\displayrandom.Properties.Resources.resources
+C:\Users\Betsayda\Desktop\displayrandom\displayrandom\obj\x86\Release\displayrandom.csproj.GenerateResource.Cache
+C:\Users\Betsayda\Desktop\displayrandom\displayrandom\obj\x86\Release\displayrandom.exe
+C:\Users\Betsayda\Desktop\displayrandom\displayrandom\obj\x86\Release\displayrandom.pdb
